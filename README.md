@@ -21,7 +21,7 @@ The key technologies that are used to build the dashboard:
 
 • 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
 
-• 📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.
+• 📝 Data Modeling – Relationships established among tables to enable cross-filtering and aggregation.
 • 📁 File Format – .pbix for development and .png for dashboard previews.
 
 
